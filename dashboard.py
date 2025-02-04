@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+# pip install streamlit pandas plotly
+# streamlit run dashboard.py
+
 st.title("Proceso ETL - Mercado libre")
 
 # Cargar datos de cada pregunta
